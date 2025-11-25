@@ -1,0 +1,1 @@
+A simple Email Automation System built in Python that sends the same message to multiple recipients at once. It uses SMTP, supports large recipient lists, and handles all emails in a single run. Useful for bulk notifications, quick updates, and automated messaging tasks
